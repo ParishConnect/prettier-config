@@ -1,0 +1,10 @@
+{
+  "name": "@parishconnect/prettier-config",
+  "version": "1.0.0",
+  "description": "ParishConnect Prettier Config",
+  "main": "index.json",
+  "repository": "https://github.com/ParishConnect/prettier-config",
+  "author": "ParishConnect <info@parishconnect.io>",
+  "license": "UNLICENSED",
+  "private": true
+}
